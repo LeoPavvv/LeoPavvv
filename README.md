@@ -130,9 +130,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeoPavvv/LeoPavvv/output/snake.svg" alt="Snake animation" />
-
-###
